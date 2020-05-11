@@ -1,6 +1,6 @@
 ## Chat Online
 
-Um aplicativo de chat online
+Um aplicativo de chat online utilizando Firebase
 
 ### Getting Started
 
